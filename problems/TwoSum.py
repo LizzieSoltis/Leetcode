@@ -1,4 +1,4 @@
-#Better Solution of TwoSum.c: Hash Map/Dictionary 
+#Faster Solution of TwoSum.c: Hash Map/Dictionary 
 #Time Complexity: O(n)
 #Space Complexity: O(n)
 class Solution(object):
